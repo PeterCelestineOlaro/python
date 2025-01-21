@@ -1,0 +1,18 @@
+INFO:root:Battery percentage: 100%
+INFO:root:Battery is plugged in
+INFO:root:Time left: Unlimited minutes
+INFO:root:Battery health is stable.
+INFO:root:Battery health check completed.
+INFO:root:Battery percentage: 99%
+INFO:root:Battery is not plugged in
+INFO:root:Time left: 71582788 minutes
+WARNING:root:Battery is sufficiently charged, but not plugged in!
+INFO:root:Battery health check completed.
+INFO:root:Battery percentage: 99%
+INFO:root:Battery is not plugged in
+INFO:root:Time left: 1193046 hours 28 minutes
+WARNING:root:Battery is sufficiently charged, but not plugged in!
+INFO:root:Battery health check completed.
+INFO:root:Battery report generated: C:\Users\olaro\Desktop\python\battery-report.html.
+ERROR:root:Error generating battery report: [Errno 2] No such file or directory: 'C:\\Users\\olaro\\battery-report.html'
+INFO:root:Battery health check completed.
